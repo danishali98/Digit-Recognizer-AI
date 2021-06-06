@@ -1,6 +1,9 @@
 # Digit Recognizer - Artificial Intelligence
 
-The repositiory contains different folders for different training scripts. Each of the trained models performed differently and has different success rate.
+The repositiory contains different folders for different training scripts. Each of the trained models performed differently and has different success rate. These include:
+  1. kNN (k Neareast Neighbors)
+  2. FFNN (Feed Forward Neural Network)
+  3. SVM using HOG (Support Vector Machines using Histogram of Oriented Gradients features)
 
 The dataset for the models is MNIST dataset which is a huge dataset containing a handsome amount of records. The images of characters are converted to pixels with their intensity ranging from 0-255.
 
